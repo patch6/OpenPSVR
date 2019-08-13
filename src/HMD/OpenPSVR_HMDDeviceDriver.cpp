@@ -1,4 +1,3 @@
-#test
 #include "OpenPSVR_HMDDeviceDriver.h"
 
 #include <stdlib.h>
